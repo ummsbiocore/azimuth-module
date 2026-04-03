@@ -34,7 +34,7 @@ input:
 output:
  path "${name}_annotated.rds"  ,emit:g_0_rdsFile00 
 
-container "quay.io/viascientific/azimuth:1.0.0"
+container "quay.io/ummsbiocore/azimuth:1.0.0"
 
 script:
 	
